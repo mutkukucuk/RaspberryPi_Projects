@@ -35,13 +35,13 @@ sudo apt-get install wiringpi
 
 <div align="center"><img src="https://user-images.githubusercontent.com/77547655/126806290-45c86557-a441-4b9e-863e-1e5190c2f983.png" width="450"></div>
 <div align="center"><img src="https://user-images.githubusercontent.com/77547655/126807468-4c63b53c-b7a7-41ba-a5c2-9d62d18d815c.png" width="450">
- <p>Enter the Raspberry Pi Configuration settings and choose the options you will use in your projects.</p><br>
-<br></div>
+ <p>Enter the Raspberry Pi Configuration settings and choose the options you will use in your projects.</p>
+</div>
 
 - <h3>Open Geany</h3>
  
 <div align="center" ><img src="https://user-images.githubusercontent.com/77547655/126808704-884fdf25-17b5-4cfe-a6d8-71a848966521.png" width="450" height="460">
-<br>
+
 <p>We will write our codes with the Geany IDE that comes with the Raspbian OS.</p>
  
 If this IDE is not available on your Raspberry device, you can download it here [Geany](https://www.geany.org/)
