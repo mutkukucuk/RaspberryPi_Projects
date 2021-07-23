@@ -33,7 +33,8 @@ sudo apt-get install wiringpi
 
 - <h3>Configuration</h3>
 
-<div><img src="https://user-images.githubusercontent.com/77547655/126806290-45c86557-a441-4b9e-863e-1e5190c2f983.png" width="450"><img src="https://user-images.githubusercontent.com/77547655/126807468-4c63b53c-b7a7-41ba-a5c2-9d62d18d815c.png" width="450!"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/77547655/126806290-45c86557-a441-4b9e-863e-1e5190c2f983.png" width="450"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/77547655/126807468-4c63b53c-b7a7-41ba-a5c2-9d62d18d815c.png" width="450"></div>
 <br>
 <p>Enter the Raspberry Pi Configuration settings and choose the options you will use in your projects.</p>
 
